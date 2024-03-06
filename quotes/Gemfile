@@ -1,2 +1,0 @@
-source "https://rubygems.org"
-gem "sector_seven_rails", path: "../sector_seven_rails"
