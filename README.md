@@ -11,3 +11,5 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 What things you need to install the software and how to install them: TBD
+
+<img width="820" alt="FF7_sector_seven" src="https://github.com/pacharya92/sector_seven_rails/assets/14185254/185ff499-cdb7-4f55-940f-3008b00eb22c">
